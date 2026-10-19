@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "genre": ["Action", "Sci-Fi", "Thriller"],
+    "releaseYear": 2010,
+    "rating": 8.8,
+    "durationMinutes": 148
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "genre": ["Action", "Crime", "Drama"],
+    "releaseYear": 2008,
+    "rating": 9.0,
+    "durationMinutes": 152
+  },
+  {
+    "title": "Interstellar",
+    "director": "Christopher Nolan",
+    "genre": ["Adventure", "Drama", "Sci-Fi"],
+    "releaseYear": 2014,
+    "rating": 8.7,
+    "durationMinutes": 169
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Quentin Tarantino",
+    "genre": ["Crime", "Drama"],
+    "releaseYear": 1994,
+    "rating": 8.9,
+    "durationMinutes": 154
+  },
+  {
+    "title": "The Matrix",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "genre": ["Action", "Sci-Fi"],
+    "releaseYear": 1999,
+    "rating": 8.7,
+    "durationMinutes": 136
+  }
+]
